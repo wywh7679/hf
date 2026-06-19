@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch>=2.4.0
+accelerate>=0.34.0
+transformers>=4.46.0
+sentencepiece>=0.2.0
+protobuf>=5.27.0
+gradio>=6.0.1
+diffusers @ git+https://github.com/huggingface/diffusers.git
